@@ -37,7 +37,7 @@ dependencies {
     androidTestImplementation 'androidx.test.ext:junit:1.1.3'
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.4.0'
 
-    implementation 'com.mapbox.maps:android:10.6.0'
+    implementation 'com.mapbox.maps:android:10.10.0'
 //            {
 //        exclude group: 'group_name', module: 'module_name'
 //    }
